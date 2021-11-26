@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EC9716CF-4BB7-286B-43FB-999CD4AFEC0F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "vr1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

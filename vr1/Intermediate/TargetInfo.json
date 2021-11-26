@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "vr1",
+			"Path": "C:\\wks\\hackday\\hack-day-2021-11-26\\vr1\\Source\\vr1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "vr1Editor",
+			"Path": "C:\\wks\\hackday\\hack-day-2021-11-26\\vr1\\Source\\vr1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
