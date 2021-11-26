@@ -1,7 +1,0 @@
-C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\Definitions.vr1.h
-C:\wks\hackday\hack-day-2021-11-26\vr1\Source\vr1\vr1GameModeBase.h
-C:\wks\unreal427\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\wks\unreal427\UnrealEngine-release\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\wks\unreal427\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\wks\unreal427\UnrealEngine-release\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Inc\vr1\vr1GameModeBase.generated.h
