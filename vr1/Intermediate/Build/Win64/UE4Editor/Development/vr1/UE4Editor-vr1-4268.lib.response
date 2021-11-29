@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-vr1-4268.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\wks\itrq-unreal\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\VR1_PlayerController.cpp.obj"
+"C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\vr1.cpp.obj"
+"C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\vr1.init.gen.cpp.obj"
+"C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\VR1_PlayerController.gen.cpp.obj"
+"C:\wks\itrq-unreal\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\UE4Editor-vr1-4268.lib"
+/INCLUDE:IMPLEMENT_MODULE_vr1

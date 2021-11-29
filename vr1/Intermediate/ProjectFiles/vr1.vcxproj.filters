@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\vr1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{460D21D2-35AC-4022-9D3A-63CB1F941A05}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\vr1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\vr1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{98AF8FE0-EEFE-4DBF-93AA-0D2184FC0367}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultScalability.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\vr1">
+      <UniqueIdentifier>{49D96050-6F9F-4EF0-83D3-2B25F2178231}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\vr1\vr1.Build.cs">
+      <Filter>Source\vr1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\vr1\vr1.cpp">
+      <Filter>Source\vr1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vr1\vr1.h">
+      <Filter>Source\vr1</Filter>
+    </ClInclude>
+    <Filter Include="Source\vr1\Private">
+      <UniqueIdentifier>{D0BA1C10-EFAD-4E1F-80E0-C40187040458}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\vr1\Private\Player">
+      <UniqueIdentifier>{A5936536-E04B-4469-9AA2-AD68D72D89FA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\vr1\Private\Player\VR1_PlayerController.cpp">
+      <Filter>Source\vr1\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\vr1\Public">
+      <UniqueIdentifier>{3E054ED3-7299-4E26-AFEE-0E889CBFE2AB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\vr1\Public\Player">
+      <UniqueIdentifier>{6E79B9DE-95AE-4150-BC4A-C499C6EB9ED5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\vr1\Public\Player\VR1_PlayerController.h">
+      <Filter>Source\vr1\Public\Player</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

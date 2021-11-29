@@ -1,0 +1,5 @@
+C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Development\vr1\Definitions.vr1.h
+C:\wks\itrq-unreal\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\wks\itrq-unreal\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\wks\hackday\hack-day-2021-11-26\vr1\Source\vr1/Public/Player/VR1_PlayerController.h
+C:\wks\hackday\hack-day-2021-11-26\vr1\Intermediate\Build\Win64\UE4Editor\Inc\vr1\VR1_PlayerController.generated.h

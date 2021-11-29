@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6E4242C2-4900-230F-5337-199D1F3B85B7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "vr1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"PS4",
+		"WindowsNoEditor"
+	]
+}
